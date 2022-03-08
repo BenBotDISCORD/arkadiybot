@@ -1,0 +1,6 @@
+discord==1.7.3
+discord.py==1.7.3
+bs4==0.0.1
+requests==2.27.1
+dnspython==2.2.1
+pymongo==4.0.2
