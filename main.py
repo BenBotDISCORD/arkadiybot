@@ -4,7 +4,7 @@ from discord.ext import commands
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
-token = 'OTUwNzc5ODc3Mzc4ODg3NzYw.Yid4ww.In7HKLuWu9HhirYq889liZuPR4o'
+token = ''
 bot = commands.Bot(command_prefix='')
 @bot.remove_command( 'help' )
 
